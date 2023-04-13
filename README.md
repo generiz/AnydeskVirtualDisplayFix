@@ -7,8 +7,7 @@ La solución está diseñada para funcionar en Windows 10 y utiliza PowerShell p
 
 Estructura del repositorio:
 
-scss
-Copy code
+
 raíz
 │   ejecutar.bat
 │
